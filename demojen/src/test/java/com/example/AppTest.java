@@ -17,4 +17,8 @@ public class AppTest
     {
         System.out.println("--------------------SAMPLE TESTING DEMO WITH JENKINS-----------------------");
     }
+    @Test
+    public void test02(){
+        System.out.println("--------------------SAMPLE TESTING DEMO WITH JENKINS 2 -----------------------");
+    }
 }
