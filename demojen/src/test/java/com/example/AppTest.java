@@ -13,7 +13,7 @@ public class AppTest
      * Rigorous Test :-)
      */
     @Test
-    public void shouldAnswerWithTrue()
+    public void test01()
     {
         System.out.println("--------------------SAMPLE TESTING DEMO WITH JENKINS-----------------------");
     }
